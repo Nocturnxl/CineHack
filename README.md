@@ -16,14 +16,11 @@ The idea came to me while watching a movie with my wife—yet another scene feat
   
 
 🚀 Usage
-bash
-Copy
-Edit
 # Run in cinematic mode
-python cinematic_hack.py
+python cinehack.py
 
 # Skip delays (fast preview)
-python cinematic_hack.py --fast
+python cinehack.py --fast
 🔧 Requires Python 3.7+
 ✨ For full Unicode and ANSI support on Windows, run from a modern terminal (Windows Terminal or WSL)
 
